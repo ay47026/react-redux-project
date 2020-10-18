@@ -1,0 +1,1 @@
+export const baseUrl = 'https://my-json-server.typicode.com/ay47026/json-server/';
